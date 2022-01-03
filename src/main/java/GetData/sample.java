@@ -21,8 +21,10 @@ public class sample {
 		WebDriver driver=new FirefoxDriver();
 		System.out.println("helloo git hub ");
 		
-		System.out.println("helloo git hub ");
-		System.out.println("helloo git hub ");
+		System.out.println("I love India  ");
+
+		System.out.println("I love India  ");
+		
 		
 		
 		
