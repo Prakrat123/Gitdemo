@@ -19,6 +19,12 @@ public class sample {
 		System.setProperty("webdriver.gecko.driver","C:\\Users\\hp\\Downloads\\geckodriver-v0.30.0-win64\\geckodriver.exe");
 		
 		WebDriver driver=new FirefoxDriver();
+		System.out.println("helloo git hub ");
+		
+		System.out.println("helloo git hub ");
+		System.out.println("helloo git hub ");
+		
+		
 //		driver.get("https://www.google.com/");
 //		driver.manage().window().maximize();
 //		driver.get("https://www.youtube.com/watch?v=bW43a3vOFjU");
