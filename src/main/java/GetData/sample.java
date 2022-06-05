@@ -30,16 +30,7 @@ public class sample {
 		WebDriver driver=new FirefoxDriver();
 		System.out.println("helloo git hub ");
 		
-		System.out.println("helloo git hub ");
-		System.out.println("helldververgvrtbgrtoo git hub ");
-		System.out.println("helloo givergvrtbgrtoo gitt hub1111111 ");
-		System.out.println("helloo gitvergvrtbgrtoo git hub1111111 ");
-
-		System.out.println("helloo git huvergvrtbgrtoo gitb111111 ");
-		System.out.println("helloo git hub1111 ");
-		System.out.println("helloo git hubvergvrtbgrtoo git111 ");
-		System.out.println("helloo git hub1111111 ");
-		
+		System.out.println("hell34343434oo git hub ");
 		
 //		driver.get("https://www.google.com/");
 //		driver.manage().window().maximize();
